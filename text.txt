@@ -1,0 +1,7 @@
+Last login: Mon Sep 30 23:40:26 on ttys004
+viktoriagazaran@MacBook-Air-Viktoria ~ % sw_vers
+ProductName:		macOS
+ProductVersion:		14.6.1
+BuildVersion:		23G93
+viktoriagazaran@MacBook-Air-Viktoria ~ % 
+
